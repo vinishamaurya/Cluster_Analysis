@@ -1,0 +1,6 @@
+Customer,product_1,product_2,product_3,product_4,product_5,product_6,product_7,product_8,product_9,product_10,Label
+cust_1,2,4,5,3,5,6,2,6,8,9,Heavy
+cust_2,4,2,1,1,1,5,6,7,6,5,Low
+cust_3,6,11,15,9,15,18,5,18,25,29,Heavy
+cust_4,5,9,11,6,10,12,5,12,16,18,Heavy
+cust_5,16,8,5,4,4,20,21,24,24,20,Low
